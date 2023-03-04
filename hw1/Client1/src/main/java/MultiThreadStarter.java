@@ -6,7 +6,7 @@ public class MultiThreadStarter {
   private static String url;
   private static AtomicInteger successReq;
   private static AtomicInteger failReq;
-  private static BlockingDeque<SwipeEvent> events;
+  public static BlockingDeque<Swipe> events;
   private static final int numOfThread = 50;
   private static final int totalReq = 500000;
   private static final int reqPerThread = 10000;
@@ -15,7 +15,7 @@ public class MultiThreadStarter {
     url ="http://localhost:8080/Assignment1_war_exploded/";
     successReq = new AtomicInteger(0);
     failReq = new AtomicInteger(0);
-    events = new LinkedBlockingDeque<SwipeEvent>();
+    events = new LinkedBlockingDeque<Swipe>();
 
     System.out.println("****************PROCESSING BEGIN******************");
 

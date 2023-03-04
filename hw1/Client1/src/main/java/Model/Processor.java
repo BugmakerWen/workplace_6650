@@ -9,12 +9,12 @@ public class Processor implements Runnable{
   private AtomicInteger successReq;
   private AtomicInteger failReq;
   private int totalReq;
-  private BlockingQueue<SwipeEvent> events;
+  private BlockingQueue<Swipe> events;
   private CountDownLatch countDownLatch;
 
   public Processor(String urlBase,
       AtomicInteger successReq, AtomicInteger failReq, int totalReq,
-      BlockingQueue<SwipeEvent> events, CountDownLatch countDownLatch) {
+      BlockingDeque<Swipe> events, CountDownLatch countDownLatch) {
     this.urlBase = urlBase;
     this.successReq = successReq;
     this.failReq = failReq;
@@ -32,7 +32,7 @@ public class Processor implements Runnable{
     int countOfFail = 0;
 
     for (int i = 0; i < this.totalReq; i++) {
-      SwipeEvent currEvent = this.events.poll();
+      Swipe currEvent = this.events.poll();
       if (doSwipe(swipeApi, currEvent)) {
         countOfSuccess += 1;
       } else {
@@ -45,7 +45,7 @@ public class Processor implements Runnable{
     countDownLatch.countDown();
   }
 
-  private boolean doSwipe(SwipeApi swipeApi, SwipeEvent event) {
+  private boolean doSwipe(SwipeApi swipeApi, Swipe event) {
     int tryTime = 0;
     while (tryTime < 5) {
       try {

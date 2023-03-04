@@ -14,10 +14,10 @@ public class Generator implements Runnable{
   private static final int Magic_ONE = 1;
   private static final String stopID = "STOP";
 
-  private BlockingDeque<SwipeEvent> queue;
+  private BlockingDeque<Swipe> queue;
   private int numOfEvents;
 
-  public Generator(BlockingDeque<SwipeEvent> queue, int numOfEvents) {
+  public Generator(BlockingDeque<Swipe> queue, int numOfEvents) {
     this.queue = queue;
     this.numOfEvents = numOfEvents;
   }
@@ -34,7 +34,7 @@ public class Generator implements Runnable{
       detail.setSwiper(swiperID.toString());
       detail.setSwipee(swipeeID.toString());
       detail.setComment(comment);
-      SwipeEvent swipe = new SwipeEvent(leftOrRight == 0 ? "left" : "right", detail);
+      Swipe swipe = new Swipe(leftOrRight == 0 ? "left" : "right", detail);
       this.queue.offer(swipe);
     }
   }

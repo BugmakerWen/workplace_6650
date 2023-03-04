@@ -1,4 +1,4 @@
-import Model.Info;
+import Model.*;
 import com.google.gson.Gson;
 import java.io.PrintWriter;
 import javax.servlet.*;
