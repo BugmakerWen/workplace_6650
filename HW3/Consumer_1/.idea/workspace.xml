@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Consumer_1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48ccc7fb-0a7d-404d-a6a2-eecfba7620a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/AppServer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/artifacts/Assignment1_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/artifacts/Assignment1_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war/Assignment1_war.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/classes/AssignmentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/classes/Model/ChannelPoolFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/classes/Model/InfoOfMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/classes/Model/MessageToChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/activation-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/amqp-client-5.16.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/commons-pool2-2.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/gson-2.10.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/gson-fire-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/jaxb-api-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/jaxb-core-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/jaxb-impl-2.2.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/junit-4.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/logging-interceptor-2.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-artifact-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-artifact-manager-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-gpg-plugin-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-model-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-plugin-api-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-plugin-registry-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-profile-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-project-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-repository-metadata-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/maven-settings-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/okhttp-2.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/okio-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/plexus-utils-3.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/slf4j-api-2.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/slf4j-simple-2.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/swagger-annotations-2.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/swagger-java-client-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/threetenbp-1.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/lib/wagon-provider-api-1.0-beta-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/out/artifacts/Assignment1_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/src/main/java/AssignmentServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/src/main/java/Model/ChannelPoolFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/src/main/java/Model/InfoOfMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/src/main/java/Model/MessageToChannel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/target/classes/AssignmentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/target/classes/Model/ChannelPoolFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/target/classes/Model/InfoOfMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/target/classes/Model/MessageToChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/AppServer/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/Client2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/CSV/.ipynb_checkpoints/MultiThread-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/CSV/MultiThread.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/CSV/MultiThreadOutput.CSV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/Model/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/Model/Information.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/Model/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/Model/SwipeEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/src/main/java/MultiThreadStarter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/target/classes/Model/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/target/classes/Model/Information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/target/classes/Model/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/target/classes/Model/SwipeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Client2/target/classes/MultiThreadStarter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/artifacts/Consumer_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/Consumer_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/out/artifacts/Consumer_1_jar/Consumer_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/src/main/java/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/src/main/java/LikeAndDislike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/src/main/java/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/target/classes/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/target/classes/LikeAndDislike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_1/target/classes/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/artifacts/Consumer_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/Consumer_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/out/artifacts/Consumer_2_jar/Consumer_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/src/main/java/Consumer_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/src/main/java/Processor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/src/main/java/listOfPotentialMatches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/target/classes/Consumer_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/target/classes/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HW2/Consumer_2/target/classes/listOfPotentialMatches.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MQqGYLgN322DhY4FrKkXJM4Y7n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mw/Desktop/WorkPlace/workplace_6650/HW3/Consumer_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ccc7fb-0a7d-404d-a6a2-eecfba7620a1" name="Changes" comment="" />
+      <created>1677710059188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677710059188</updated>
+      <workItem from="1677710060524" duration="985000" />
+      <workItem from="1677711982492" duration="582000" />
+      <workItem from="1677733486092" duration="3330000" />
+      <workItem from="1677796894503" duration="1927000" />
+      <workItem from="1680293821201" duration="624000" />
+      <workItem from="1680294724424" duration="1667000" />
+      <workItem from="1680306751677" duration="2712000" />
+      <workItem from="1680313934108" duration="4233000" />
+      <workItem from="1680327264684" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
